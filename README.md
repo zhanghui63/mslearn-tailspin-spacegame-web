@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TCSZhangHui/web-pipeline/_apis/build/status/zhanghui63.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TCSZhangHui/web-pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
